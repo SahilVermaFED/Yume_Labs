@@ -43,4 +43,8 @@ export { default as partnerimage2 } from './images/partnerimage-2.png';
 export { default as partnerimage3 } from './images/partnerimage-3.png';
 export { default as partnerimage4 } from './images/partnerimage-4.png';
 export { default as statementBgImage } from '/src/assets/images/statementbg.png';
+export { default as productdesign } from './casestudypage/productdesign-image.png';
 export { default as caseStudyBgGrid } from '/src/assets/casestudypage/bg-grid-lines.svg';
+export { default as cardsImage } from '/src/assets/casestudypage/cards-image.png';
+export { default as workImage } from '/src/assets/casestudypage/work-image.png';
+export { default as loginImage } from '/src/assets/casestudypage/login-image.png';
